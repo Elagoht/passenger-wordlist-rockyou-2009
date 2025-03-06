@@ -1,0 +1,15 @@
+{
+  "displayName": "RockYou 2009",
+  "slug": "rockyou-2009",
+  "year": 2009,
+  "source": "https://github.com/zacheller/rockyou",
+  "description": "The most popular passwords from RockYou 2009",
+  "publishedBy": "Zacheller",
+  "adaptedBy": "Elagoht",
+  "minLength": 8,
+  "maxLength": 285,
+  "totalFiles": 203,
+  "totalPasswords": 14000000,
+  "size": 104.5,
+  "sizeUnits": "MB"
+}
