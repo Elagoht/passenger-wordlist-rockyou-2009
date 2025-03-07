@@ -16,6 +16,7 @@ Fields:
 - `slug`: Will be used to determine the directory to download the wordlist.
 - `year`: The year of the wordlist.
 - `source`: The source of the wordlist Not to be used for anything else than credits.
+- `repository`: The git repository to be cloned to get the wordlist.
 - `description`: The description of the wordlist.
 - `publishedBy`: The original author of the wordlist.
 - `adaptedBy`: The person who adapted the wordlist for this repository.

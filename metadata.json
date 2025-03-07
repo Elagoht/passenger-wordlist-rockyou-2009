@@ -3,6 +3,7 @@
   "slug": "rockyou-2009",
   "year": 2009,
   "source": "https://github.com/zacheller/rockyou",
+  "repository": "https://github.com/Elagoht/passenger-wordlist-rockyou-2009",
   "description": "The most popular passwords from RockYou 2009",
   "publishedBy": "Zacheller",
   "adaptedBy": "Elagoht",
